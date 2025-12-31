@@ -86,7 +86,8 @@ ATS Tracker: Evaluates resume score based on job role
 🔗 Repository: https://github.com/yourusername/genai-placement-app
 
 
-🚀 Self Projects🚗 Vehicle Parking Slot Booking System
+🚀 Self Projects
+🚗 Vehicle Parking Slot Booking System
 Tech Stack: PHP, MySQL, HTML, CSS, JavaScript
 Online system for booking parking slots
 Automated slot allocation and user management
