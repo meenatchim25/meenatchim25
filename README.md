@@ -60,21 +60,21 @@ Tech Stack: PHP, MySQL, HTML, CSS, JavaScript
 Full-featured e-commerce platform for purchasing fireworks online
 Includes user authentication, product listing, cart, and order management
 Focused on responsive UI and secure database operations
-🔗 Repository: https://github.com/yourusername/fireworks-ecommerce
+🔗 Repository:https://github.com/meenatchim25/fireworks-ecommerce/tree/main
 
 👕 Clothing E-Commerce Website
 Tech Stack: PHP, MySQL, HTML, CSS, Bootstrap
 Men’s clothing shopping platform with modern UI
 Features include login/signup, wishlist, cart, and checkout
 Mobile-friendly design using Bootstrap
-🔗 Repository: https://github.com/yourusername/clothing-ecommerce
+🔗 Repository:https://github.com/meenatchim25/Clothing-E-Commerce-Website/tree/main
 
 🏨 Flask-Based Hotel Management System
 Tech Stack: Python, Flask, MySQL, HTML, CSS
 Web application for hotel booking and room management
 Handles customer records, room availability, and reservations
 Implemented full CRUD operations with MySQL backend
-🔗 Repository: https://github.com/yourusername/flask-hotel-management
+🔗 Repository:https://github.com/meenatchim25/flask-hotel-management
 
 🤖 Placement Training App (Gen-AI Powered)
 Tech Stack: Python, Streamlit, Generative AI, LLMs
@@ -92,39 +92,26 @@ Tech Stack: PHP, MySQL, HTML, CSS, JavaScript
 Online system for booking parking slots
 Automated slot allocation and user management
 Designed for ease of use and efficiency
-🔗 Repository: https://github.com/yourusername/parking-slot-booking
-
-🔐 Role-Based Access & Privilege Management System
-Tech Stack: React.js, Node.js, Express.js, MySQL
-Secure authentication system with role-based access control
-Admin-controlled privilege assignment
-Designed for scalable enterprise use cases
-🔗 Repository: https://github.com/yourusername/role-based-access-system
+🔗 Repository: https://github.com/meenatchim25/parking-slot-booking-system
 
 🏢 Premises Maintenance Detection System
 Tech Stack: Python, Streamlit, TensorFlow, Keras
 AI-powered image classification system
 Detects whether maintenance is required in premises
 Real-time prediction using a simple Streamlit UI
-🔗 Repository: https://github.com/yourusername/maintenance-detection
+🔗 Repository: https://github.com/meenatchim25/-Premises-Maintenance-Detection-System/tree/main
 
 🧏 SignTalk Communication System
 Tech Stack: Python, OpenCV, MediaPipe, TensorFlow
 Gesture recognition system for sign language
 Converts hand gestures into text or speech
 Designed to assist hearing-impaired communication
-🔗 Repository: https://github.com/yourusername/signtalk
+🔗 Repository: https://github.com/meenatchim25/sign-talk-communication/tree/main
 
 💼 Freelance Projects🪵 Karthika Wood Works – Business Website
 Tech Stack: HTML, CSS, JavaScript, PHP, MySQL
 Business website to showcase woodwork services
 Integrated enquiry forms and admin dashboard
 Hosted and deployed for client use
-🔗 Repository: https://github.com/yourusername/karthika-woodworks
+🔗 Repository: https://github.com/meenatchim25/karthika-woodworks
 
-🏭 Ananthi Engineering Works – Portfolio Website
-Tech Stack: HTML, CSS, Bootstrap, PHP, MySQL
-Professional company portfolio website
-Displays services, contact details, and business profile
-Improved online presence for the client
-🔗 Repository: https://github.com/yourusername/ananthi-engineering
