@@ -83,7 +83,7 @@ Cube: Answers programming and CS questions
 Pixel: Image analysis and comparison
 Solver: Solves math and programming problems
 ATS Tracker: Evaluates resume score based on job role
-🔗 Repository: https://github.com/yourusername/genai-placement-app
+🔗 Repository: https://github.com/meenatchim25/Placement-Training-App-Gen-AI-Powered-
 
 
 🚀 Self Projects
