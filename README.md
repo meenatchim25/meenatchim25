@@ -1,5 +1,5 @@
 Hello !!! I’m Meenatchi M   
-💻 Freelancer | AI Engineer | Full Stack Developer | PHP Developer Intern at Smackcoders | MSC Computer Science Student
+💻 AI Engineer | Full Stack Developer | PHP Developer Intern at Smackcoders | MSC Computer Science Student
 
 🧭 My Journey  
 ▸ Exploring the world of web technologies, AI, and automation  
